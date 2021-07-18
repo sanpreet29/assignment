@@ -1,4 +1,4 @@
-class square
+public class square
 {
 
 	static float sq(int number,int precision)
