@@ -1,0 +1,55 @@
+ 2     2     2     2     2     2     2     2     2     2
+___ . ___ . ___ . ___ . ___ . ___ . ___ . ___ . ___ . ___
+
+ A     B     C     D     E     F     G     H     I     J
+
+
+=2^10
+
+=1024
+
+LABEL WINE BOTTKES 0-999
+
+Every Every Every Every Every Every  Every  Every  Every  Every  
+Other Other Other Other Other Other  Other  Other  Other  Other  
+            
+ 1     2     4     8     10     32     64    128    256   512
+___ . ___ . ___ . ___ . ____ . ____ . ____ . ____ . ___ . ___
+
+ A     B     C     D      E      F      G      H     I     J
+
+2^0   2^1   2^2   2^3    2^4    2^5    2^6    2^7   2^8   2^9
+
+
+A : 0, 2, 4, 6, 8, 10, 12,........
+
+B : 0, 1, 4, 5, 8, 9, 12, 13,.......
+
+C : 0, 1, 2, 3, 8, 9, 10, 11,.......
+
+D : 0-7, 16-23,......
+
+E : 0-15, 32-47,......
+
+F : 0-31, 64-95,......
+
+G : 0-43, 128-191,......
+
+H : 0-127, 256-383,......
+
+I : 0-255, 512-707,.......
+
+J : 0-511
+
+
+BASE 10 "DECIMAL" NUMBER SYSTEM
+
+            TEN          THOUSANDS     HUNDREDS    TENS      ONES       
+      THOUSANDS PLACE      PLACE        PLACE      PLACE     PLACE    
+...... _______________ . __________ . _________ . _______ . _______ 
+
+            10^4            10^3         10^2       10^1      10^0
+
+ 
+
+SYMBOLS : 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
